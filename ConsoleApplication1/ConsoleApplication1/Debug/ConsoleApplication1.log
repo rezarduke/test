@@ -1,2 +1,4 @@
-﻿  ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> H:\test\ConsoleApplication1\Debug\ConsoleApplication1.exe
+﻿  stdafx.cpp
+  ConsoleApplication1.cpp
+  LINK : 最後的累加連結找不到或未建置 H:\test1\ConsoleApplication1\Debug\ConsoleApplication1.exe，正在執行完整連結
+  ConsoleApplication1.vcxproj -> H:\test1\ConsoleApplication1\Debug\ConsoleApplication1.exe
